@@ -1,3 +1,4 @@
 <?php
-echo "My first PHP script!";
+$word = "This is a change.";
+echo $word;
 ?>
